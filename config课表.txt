@@ -1,0 +1,38 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx39e91738d5fd00b8",
+# 公众号appSecret
+"app_secret": "bad18bc579c1933d6509cc9058535137",
+# 模板消息id
+"template_id": "KjwO1zseci9VCmbvGI6xQkKxIJszVTwEnDd7-IWjTRk",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["o-L2K5sro7xRD_44E33qCabLxqSw","o-L2K5gvcz5IUy7h9MNaNjxxq_NA"],
+ 
+# 信息配置
+# 课程表
+"zhou1": "明天上午
+一二节(8:00-10:00)
+运筹学
+1-203
+张晓波
+
+三四节(10:20-12:00)
+英语
+4-509
+杨冬梅
+
+下午公休喔，好好休息！",
+"zhou2": "明天上午
+一二节(8:00-9:50)
+概率论
+6-104
+黄灿云
+
+然后就没课了喔，休息吧",
+"zhou3": "需要换行可以使用\n",
+"zhou4": "zhou1=星期一",
+"zhou5": "默认晚上8点运行",
+"zhou6": "如果你需要在当天运行zhou1填星期二的课程，以此类推",
+"zhou7": ""
+}
